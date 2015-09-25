@@ -1,0 +1,11 @@
+{
+  "name": "unicornify",
+  "version": "1.0.0",
+  "authors": [
+    "Sim Boon Long <simboonlong@gmail.com>"
+  ],
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-zip": "^3.0.2"
+  }
+}
