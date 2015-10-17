@@ -1,5 +1,5 @@
 ## unicornify-extension
-A WebExtension to unicornify any website. Built for Chrome.
+A Chrome WebExtension to unicornify any website.
 
 - Inspired by videocast: http://www.paulirish.com/2010/10-things-i-learned-from-the-jquery-source/
 - Source code from: http://www.cornify.com/js/cornify.js
@@ -11,7 +11,7 @@ A WebExtension to unicornify any website. Built for Chrome.
 
 ## Usage
 1. To install, download a zipped copy. Unzipped the files.
-2. Then, go to your Chrome browser extensions via [Preferences]. For Mac, press `cmd + ,` > click [Extensions] > click [Load unpacked extension].
+2. Then, go to your Chrome browser extensions via [Preferences]. For Mac, press `cmd + ,` > click [Extensions] > check [Developer Mode] > click [Load unpacked extension].
 3. Select your unzipped folder and unicornify-extension should install.
 4. Go to any website, click the Unicornify button on top right of your browser window to unicornify!
 
